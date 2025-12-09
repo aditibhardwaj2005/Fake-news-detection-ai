@@ -14,7 +14,7 @@ TruthVerify is a web application that analyzes text and predicts whether news or
 
 📱 Fully responsive — works on mobile & desktop
 
-### 🧠 How It Works
+## 🧠 How It Works
 
 User enters news text in the input box
 
