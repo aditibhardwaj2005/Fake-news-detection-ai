@@ -24,11 +24,5 @@ Gemini AI analyzes the text
 
 The result is displayed to the user with confidence level
 
-### 🛠️ Tech Stack
 
-Role	Technology
-Frontend	Next.js (React), Tailwind CSS, ShadCN
-Backend	Next.js API Route
-AI Model	Google Gemini API
-Deployment	Vercel
 
